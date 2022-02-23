@@ -41,16 +41,15 @@ Living in : Latvia
 * Make games
 * Physical challenges 
 
-<!--
+## Experience
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|     Codelex   |
+| ------------- |
+| PHP  |
+| MyS  |
+| Laravel  |
+| Unit & Integration testing (including TDD methods) |
+| MVC, SOLID & design patterns (KISS, DRY etc.)  |
+| GIT  |
+| Building REST API  |
+| HTML & CSS, VueJS basics |
