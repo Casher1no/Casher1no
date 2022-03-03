@@ -20,7 +20,7 @@
 |     Codelex   |
 | ------------- |
 | PHP  |
-| MyS  |
+| MySQL  |
 | Laravel  |
 | Unit & Integration testing (including TDD methods) |
 | MVC, SOLID & design patterns (KISS, DRY etc.)  |
@@ -29,12 +29,16 @@
 | HTML & CSS, VueJS basics |
 
 ## Programming Languages
- <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/php.svg' width='40'/><img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/sql.svg' width='40'/><img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/html.svg' height='40'/><img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/css.svg' width='40'/>
+ <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/php.svg' width='40'/><img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/html.svg' height='40'/><img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/css.svg' width='40'/>
 
  ## Technologies I Use
   <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/Visual_Studio_Code_1.35_icon.svg.png' width='40'/> <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/git.svg' width='40'/> <img src = 
 'https://github.com/Casher1no/Casher1no/blob/main/Images/Github-desktop-logo-symbol.svg' height='40'/><img src = 
-'https://github.com/Casher1no/Casher1no/blob/main/Images/composer.svg' height='40'/>
+'https://github.com/Casher1no/Casher1no/blob/main/Images/composer.svg' height='40'/><img src =
+'https://github.com/Casher1no/Casher1no/blob/main/Images/sql.svg' width='40'/><img src = 
+'https://github.com/Casher1no/Casher1no/blob/main/Images/laravel-2.svg' height='40'/><img src = 
+'https://github.com/Casher1no/Casher1no/blob/main/Images/tux.svg' height='40'/><img src = 
+'https://github.com/Casher1no/Casher1no/blob/main/Images/vue-js-1.svg' height='40'/>
 
 ## Extra
 <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/Unity-logo.png' width='40'/><img src = 
