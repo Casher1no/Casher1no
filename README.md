@@ -15,6 +15,19 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Casher1no&layout=compact">
 
+## Experience
+
+|     Codelex   |
+| ------------- |
+| PHP  |
+| MyS  |
+| Laravel  |
+| Unit & Integration testing (including TDD methods) |
+| MVC, SOLID & design patterns (KISS, DRY etc.)  |
+| GIT  |
+| Building REST API  |
+| HTML & CSS, VueJS basics |
+
 ## Programming Languages
  <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/php.svg' width='40'/><img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/sql.svg' width='40'/><img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/html.svg' height='40'/><img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/css.svg' width='40'/>
 
@@ -41,15 +54,4 @@ Living in : Latvia
 * Make games
 * Physical challenges 
 
-## Experience
 
-|     Codelex   |
-| ------------- |
-| PHP  |
-| MyS  |
-| Laravel  |
-| Unit & Integration testing (including TDD methods) |
-| MVC, SOLID & design patterns (KISS, DRY etc.)  |
-| GIT  |
-| Building REST API  |
-| HTML & CSS, VueJS basics |
