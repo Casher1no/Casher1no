@@ -8,8 +8,8 @@
 ## :computer: Technologies I Love
 <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/anime-boy.gif' alt = 'Awesome Matrix Code' align='right' width="260px" height="260px"/>
 
-* Backend Web Development
-* VSCode
+* Laravel
+* Vue.js
 * Unity
 
 
@@ -32,7 +32,7 @@
  <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/php.svg' width='40'/><img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/html.svg' height='40'/><img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/css.svg' width='40'/>
 
  ## Technologies I Use
-  <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/Visual_Studio_Code_1.35_icon.svg.png' width='40'/> <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/git.svg' width='40'/> <img src = 
+  <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/phpstorm-svgrepo-com.svg' width='40'/> <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/git.svg' width='40'/> <img src = 
 'https://github.com/Casher1no/Casher1no/blob/main/Images/Github-desktop-logo-symbol.svg' height='40'/><img src = 
 'https://github.com/Casher1no/Casher1no/blob/main/Images/composer.svg' height='40'/><img src =
 'https://github.com/Casher1no/Casher1no/blob/main/Images/sql.svg' width='40'/><img src = 
