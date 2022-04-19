@@ -51,7 +51,6 @@ Living in : Latvia
 
 ## Hobbies
 
-* Solve problems at Clash of Codes
 * Watch Anime and TV Shows
 * Read self-improvement books
 * Play videogames
