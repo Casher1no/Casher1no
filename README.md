@@ -1,21 +1,34 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Michael</h1>
-<h3 align="center">A Software Engineer from Latvia</h3>
+<h2 align="center">A Software Engineer from Latvia</h2>
 
-##
-[![Linkedin Badge](https://img.shields.io/badge/-Michael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maikls-zalkalns/)](https://www.linkedin.com/in/maikls-zalkalns/) [![Gmail Badge](https://img.shields.io/badge/-maikls.zalkalns@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=maikls.zalkalns@gmail.com)](mailto:maikls.zalkalns@gmail.com)</p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=30&pause=1000&color=8A0A8A&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Game+Developer" alt="Typing SVG" /></a>
+</p>
 
-
-## :computer: Technologies I Love
 <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/anime-boy.gif' alt = 'Awesome Matrix Code' align='right' width="260px" height="260px"/>
 
-* Laravel
-* Vue.js
-* Unity
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Casher1no">
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Casher1no&layout=compact">
+<details> 
+  <summary>💻 Experience</summary>
+  <br/>
+  
+|     MaxTraffic    |
+| ------------- |
+| Laravel (PHP 7.4) | 
+| Vue.js  |
+| Unit testing  |
+| Domain Driven Design  |
+| Building REST API  |
 
-## Experience
+|  Grey Wolf Entertainment  |
+| ------------- |
+| Unity |
+| C# |
+| Creating Tools for Artists |
+| Lead Developer |
+| Project Management | 
 
 |     Codelex   |
 | ------------- |
@@ -28,33 +41,58 @@
 | Building REST API  |
 | HTML & CSS, VueJS basics |
 
-## Programming Languages
- <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/php.svg' width='40'/><img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/html.svg' height='40'/><img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/css.svg' width='40'/>
+</details>
 
- ## Technologies I Use
-  <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/phpstorm-svgrepo-com.svg' width='40'/> <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/git.svg' width='40'/> <img src = 
-'https://github.com/Casher1no/Casher1no/blob/main/Images/Github-desktop-logo-symbol.svg' height='40'/><img src = 
-'https://github.com/Casher1no/Casher1no/blob/main/Images/composer.svg' height='40'/><img src =
-'https://github.com/Casher1no/Casher1no/blob/main/Images/sql.svg' width='40'/><img src = 
-'https://github.com/Casher1no/Casher1no/blob/main/Images/laravel-2.svg' height='40'/><img src = 
-'https://github.com/Casher1no/Casher1no/blob/main/Images/tux.svg' height='40'/><img src = 
-'https://github.com/Casher1no/Casher1no/blob/main/Images/vue-js-1.svg' height='40'/>
 
-## Extra
-<img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/Unity-logo.png' width='40'/><img src = 
-'https://github.com/Casher1no/Casher1no/blob/main/Images/c-sharp.png' width='40'/>
+
+
+##  Programming and markup languages
+
+* PHP
+* C# (Only in Unity)
+* JavaScript
+* HTML
+* CSS (SCSS)
+* Node.js
+* SQL
+
+## Frameworks and libraries
+
+* Laravel
+* Vue.js
+* Arduino
+* PHPUnit
+
+## Game Engines
+
+* Unity
+
+## Things I'm looking into or learning
+
+### Web Development
+
+* Learn more design patterns.
+* Explore UI/UX designs.
+* Improve my Front End skills.
+
+### Game Development
+
+* Learn more about VR.
+* Research networking.
+* Learn more about code architecture. (Clean and maintainable code).
 
 ## About Me
 Name : Maikls Zaļkalns <br>
 Age : 21 <br>
 Living in : Latvia 
 
-## Hobbies
+### Hobbies
 
-* Watch Anime and TV Shows
+* Programming
+* Anime (As you could tell from the gif ;D)
 * Read self-improvement books
 * Play videogames
-* Make games
-* Physical challenges 
+* Make fun projects in Unity
+* Calisthenics
 
 
