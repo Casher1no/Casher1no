@@ -89,7 +89,7 @@ Living in : Latvia
 ### Hobbies
 
 * Programming
-* Anime (As you could tell from the gif ;D)
+* Anime (As you can tell from the gif ;D)
 * Read self-improvement books
 * Play videogames
 * Make fun projects in Unity
