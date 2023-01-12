@@ -8,8 +8,6 @@
 <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/anime-boy.gif' alt = 'Awesome Matrix Code' align='right' width="260px" height="260px"/>
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Casher1no">
-
 <details> 
   <summary>💻 Experience</summary>
   <br/>
