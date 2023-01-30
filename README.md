@@ -47,7 +47,7 @@
 ##  Programming and markup languages
 
 * PHP
-* C# (Only in Unity)
+* C#
 * JavaScript
 * HTML
 * CSS (SCSS)
