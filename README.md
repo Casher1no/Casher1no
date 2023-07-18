@@ -9,43 +9,6 @@
 =======
 <img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/anime-boy.gif' alt = 'Awesome Matrix Code' align='right' width="260px" height="260px"/>
 
-
-<details> 
-  <summary>💻 Experience</summary>
-  <br/>
-  
-|     MaxTraffic    |
-| ------------- |
-| Laravel (PHP 7.4) | 
-| Vue.js  |
-| Unit testing  |
-| Domain Driven Design  |
-| Building REST API  |
-
-|  Grey Wolf Entertainment  |
-| ------------- |
-| Unity |
-| C# |
-| Creating Tools for Artists |
-| Lead Developer |
-| Project Management | 
-
-|     Codelex   |
-| ------------- |
-| PHP  |
-| MySQL  |
-| Laravel  |
-| Unit & Integration testing (including TDD methods) |
-| MVC, SOLID & design patterns (KISS, DRY etc.)  |
-| GIT  |
-| Building REST API  |
-| HTML & CSS, VueJS basics |
-
-</details>
-
-
-
-
 ##  Programming and markup languages
 
 * PHP
