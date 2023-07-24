@@ -17,32 +17,17 @@
 * HTML
 * CSS (SCSS)
 * Node.js
-* SQL
+* SQL/MySQL
 
 ## Frameworks and libraries
 
 * Laravel
 * Vue.js
-* Arduino
-* PHPUnit
 
 ## Game Engines
 
 * Unity
 
-## Things I'm looking into or learning
-
-### Web Development
-
-* Learn more design patterns.
-* Explore UI/UX designs.
-* Improve my Front End skills.
-
-### Game Development
-
-* Learn more about VR.
-* Research networking.
-* Learn more about code architecture. (Clean and maintainable code).
 
 ## About Me
 Name : Maikls Zaļkalns <br>
