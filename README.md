@@ -27,7 +27,7 @@
 ## Game Engines
 
 * Unity
-
+* Godot
 
 ## About Me
 Name : Maikls Zaļkalns <br>
@@ -40,7 +40,7 @@ Living in : Latvia
 * Anime (As you can tell from the gif ;D)
 * Read self-improvement books
 * Play videogames
-* Make fun projects in Unity
+* Make games
 * Calisthenics
 
 
