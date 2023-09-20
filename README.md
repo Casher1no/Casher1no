@@ -31,7 +31,7 @@
 
 ## About Me
 Name : Maikls Zaļkalns <br>
-Age : 21 <br>
+Age : 22 <br>
 Living in : Latvia 
 
 ### Hobbies
