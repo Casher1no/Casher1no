@@ -1,46 +1,19 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Michael</h1>
-<h2 align="center">A Software Engineer from Latvia</h2>
+<h1>Hi there, I'm Michael <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+🎮 Specializing in Game Development with C# and Unity</br>
+💻 Experienced in Web Development with PHP, particularly Laravel</br>
+🛠️ Worked with Vue.js for frontend development</br>
+🧠 Passionate about mastering the art of programming and software architecture</br>
+🌟 Committed to continuous learning and adapting to new technologies</br>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=30&pause=1000&color=CCC&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Game+Developer" alt="Typing SVG" /></a>
-</p>
+<h1>About Me</h1>
+I am a versatile developer with a strong focus on C# and PHP. With extensive experience in game development using Unity and a background in web development with Laravel and PHP, I bring a diverse skill set to the table. My primary objective is to deepen my understanding of programming principles and refine my architectural skills to facilitate seamless transitions across various domains.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Casher1no)](https://github.com/anuraghazra/github-readme-stats)
-=======
-<img src = 'https://github.com/Casher1no/Casher1no/blob/main/Images/anime-boy.gif' alt = 'Awesome Matrix Code' align='right' width="260px" height="260px"/>
+<h1>What I Do</h1>
+🕹️ <b>Game Development:</b> Proficient in utilizing C# and Unity to create immersive gaming experiences.</br>
+🌐 <b>Web Development:</b> Skilled in developing reliable web applications, particularly with Laravel and PHP.</br>
+📚 <b>Continuous Learning:</b> Dedicated to expanding my knowledge and honing my craft to stay ahead in the dynamic field of technology.</br>
 
-##  Programming and markup languages
-
-* PHP
-* C#
-* JavaScript
-* HTML
-* CSS (SCSS)
-* Node.js
-* SQL/MySQL
-
-## Frameworks and libraries
-
-* Laravel
-* Vue.js
-
-## Game Engines
-
-* Unity
-* Godot
-
-## About Me
-Name : Maikls Zaļkalns <br>
-Age : 22 <br>
-Living in : Latvia 
-
-### Hobbies
-
-* Programming
-* Anime (As you can tell from the gif ;D)
-* Read self-improvement books
-* Play videogames
-* Make games
-* Calisthenics
-
-
+<h1>What I Strive For</h1>
+🤝 <b>Collaboration:</b>  I believe in the power of teamwork and enjoy working closely with others to achieve common goals.</br>
+🚀 <b>Continuous Improvement:</b> I am dedicated to refining my skills and learning from every experience to become a better developer.</br>
+🎯 <b>Goal-Driven:</b> While I may not promise perfection, I am committed to setting clear objectives and working diligently towards them in each project.</br>
