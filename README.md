@@ -6,7 +6,9 @@
 🌟 Committed to continuous learning and adapting to new technologies</br>
 
 <h1>About Me</h1>
-I am a versatile developer with a strong focus on C# and PHP. With extensive experience in game development using Unity and a background in web development with Laravel and PHP, I bring a diverse skill set to the table. My primary objective is to deepen my understanding of programming principles and refine my architectural skills to facilitate seamless transitions across various domains.
+I am a versatile developer with a strong focus on C# and PHP. With extensive experience in game development using Unity and a background in web development with Laravel and PHP, I bring a diverse skill set to the table. My primary objective is to deepen my understanding of programming principles and refine my architectural skills to facilitate seamless transitions across various domains.</br>
+</br>
+With a passion for continuous improvement and a dedication to personal and professional growth, I've embarked on a journey to expand my expertise. My background in electronics, 3D printing, robotics, and gameplay programming has uniquely shaped my learning path and fueled my enthusiasm for software development.
 
 <h1>What I Do</h1>
 🕹️ <b>Game Development:</b> Proficient in utilizing C# and Unity to create immersive gaming experiences.</br>
