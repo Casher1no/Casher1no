@@ -1,21 +1,37 @@
-<h1>Hi there, I'm Michael <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-🎮 Specializing in Game Development with C# and Unity</br>
-💻 Experienced in Web Development with PHP, particularly Laravel</br>
-🛠️ Worked with Vue.js for frontend development</br>
-🧠 Passionate about mastering the art of programming and software architecture</br>
-🌟 Committed to continuous learning and adapting to new technologies</br>
+<h1>Hi there, I'm Michael 👋</h1>
 
-<h1>About Me</h1>
-I am a versatile developer with a strong focus on C# and PHP. With extensive experience in game development using Unity and a background in web development with Laravel and PHP, I bring a diverse skill set to the table. My primary objective is to deepen my understanding of programming principles and refine my architectural skills to facilitate seamless transitions across various domains.</br>
-</br>
-With a passion for continuous improvement and a dedication to personal and professional growth, I've embarked on a journey to expand my expertise. My background in electronics, 3D printing, robotics, and gameplay programming has uniquely shaped my learning path and fueled my enthusiasm for software development.
+🎮 C# Developer with a strong background in Game Development (Unity)  
+💻 Experienced PHP & Laravel Web Developer | Vue.js for front-end  
+🧠 Passionate about clean architecture and software systems design  
+🚀 Always learning, always evolving — curious about full stack and beyond  
 
-<h1>What I Do</h1>
-🕹️ <b>Game Development:</b> Proficient in utilizing C# and Unity to create immersive gaming experiences.</br>
-🌐 <b>Web Development:</b> Skilled in developing reliable web applications, particularly with Laravel and PHP.</br>
-📚 <b>Continuous Learning:</b> Dedicated to expanding my knowledge and honing my craft to stay ahead in the dynamic field of technology.</br>
+---
 
-<h1>What I Strive For</h1>
-🤝 <b>Collaboration:</b>  I believe in the power of teamwork and enjoy working closely with others to achieve common goals.</br>
-🚀 <b>Continuous Improvement:</b> I am dedicated to refining my skills and learning from every experience to become a better developer.</br>
-🎯 <b>Goal-Driven:</b> While I may not promise perfection, I am committed to setting clear objectives and working diligently towards them in each project.</br>
+<h2>About Me</h2>
+
+I’m a versatile developer with a foundation in both **gameplay programming** and **web application architecture**. My core tools are **C#** and **PHP**, and I’ve built projects ranging from Unity-based games to Laravel-powered platforms.  
+
+What drives me is a deeper understanding of programming itself — beyond frameworks. I’m fascinated by the patterns, architectures, and decisions that make software scalable, flexible, and enjoyable to build.  
+
+My background includes side projects in **electronics**, **3D printing**, and **robotics**, which shaped how I approach problem-solving — hands-on, iterative, and systems-oriented.  
+
+---
+
+<h2>What I Do</h2>
+
+🕹️ <b>Game Development:</b> Building gameplay systems, mechanics, and developer tools in Unity using C#  
+🌐 <b>Web Development:</b> Building backends with Laravel, working with MySQL, and integrating Vue.js on the front  
+⚙️ <b>Architecture & Systems Thinking:</b> Applying clean code, SOLID principles, and separation of concerns  
+📚 <b>Lifelong Learning:</b> Exploring full-stack development, design patterns, and emerging tech  
+
+---
+
+<h2>Values & Goals</h2>
+
+🤝 <b>Collaboration:</b> I thrive in teams that value honest feedback and shared goals  
+🔄 <b>Continuous Improvement:</b> I'm not aiming for perfection — just consistent growth and real progress  
+🎯 <b>Purposeful Development:</b> I want to build things that are not just functional, but meaningful  
+
+---
+
+📬 I enjoy exploring new ideas and approaches in software — always learning, always refining.
